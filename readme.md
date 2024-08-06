@@ -15,6 +15,6 @@ Dependencies are listed in `requirements.txt`
 1. **Create virtual environment:**
     `python -m venv .venv`
 2. **Activate virtual environment:**
-    `.venv/bin/activate`
+    `source .venv/bin/activate`
 3. **Install required packages:**
     `pip install -r requirements.txt`
